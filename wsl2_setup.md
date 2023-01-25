@@ -11,9 +11,12 @@ Windows Subsystem for Linux (WSL) is a feature of Windows that allows developers
 
 * Open Windows `Powershell`
 
-* Paste and Run the following command
+* Paste and Run the following commands
 ```
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+```
+```
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 ```
 * `Restart` your PC / Laptop
 
