@@ -9,7 +9,7 @@ Windows Subsystem for Linux (WSL) is a feature of Windows that allows developers
 
 ## Steps
 
-* Open Windows `Powershell`
+* Open Windows `Powershell` as administrator
 
 * Paste and Run the following commands
 ```
