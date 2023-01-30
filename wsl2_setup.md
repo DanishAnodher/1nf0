@@ -29,4 +29,4 @@ wsl --set-default-version 2
   * [Ubuntu](https://apps.microsoft.com/store/detail/ubuntu/9PDXGNCFSCZV)
 
 
-Run the installed distro from `start-up`, wait untill it's installed and you're good to go.
+Run the installed distro from `start` either by pressing `win` key or clicking on window icon at bottom left corner, wait untill it's installed and you're good to go.
